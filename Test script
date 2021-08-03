@@ -1,2 +1,1 @@
-# LS-DYNA test Python script to take input, calculate some necessary values and produce strain hardening
-
+# LS-DYNA test Python script to take input, calculate some necessary values and produce plastic strain rate
